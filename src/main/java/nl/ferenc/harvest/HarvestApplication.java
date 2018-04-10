@@ -1,4 +1,4 @@
-package com.harvest.harvest;
+package nl.ferenc.harvest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
